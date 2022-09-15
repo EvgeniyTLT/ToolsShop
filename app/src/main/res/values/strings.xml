@@ -1,9 +1,16 @@
 <resources>
     <string name="app_name">Tools shop</string>
     <string name="logo_description">Логотип магазина инструментов</string>
+    <string name="logo_drill">Логотип дрели</string>
     <string-array name="tools">
         <item>Дрели</item>
         <item>Перфораторы</item>
         <item>Болгарки</item>
     </string-array>
+    <string name="drill_interskol_title">Дрель Interskol</string>
+    <string name="drill_makita_title">Дрель Makita</string>
+    <string name="drill_dewalt_title">Дрель DeWalt</string>
+    <string name="drill_interskol_info">111111111111111111111111111111111111111111111111111</string>
+    <string name="drill_makita_info">222222222222222222222222222222222222222222222222222222</string>
+    <string name="drill_dewalt_info">333333333333333333333333333333333333333333333333333333</string>
 </resources>
